@@ -1,0 +1,12 @@
+#loan-form span.input-group-addon {
+    padding: 5px;
+    width: 30px;
+    background-color: #ccc;
+}
+#results span.input-group-addon {
+    width: 30%;
+    text-align: left;
+}
+#loading, #results {
+    display: none;
+}
