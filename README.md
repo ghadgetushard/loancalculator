@@ -1,2 +1,2 @@
 #LoanCalculator
-local calculator project
+loan calculator project
